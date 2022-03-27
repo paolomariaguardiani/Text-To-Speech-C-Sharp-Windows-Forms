@@ -1,0 +1,38 @@
+Versione # 04
+Cerco di inserire un pulsante per scegliere la lingua della sintesi vocale.
+
+
+Versione # 08
+Aggiungo una barra per la velocità di lettura seguendo un tutorial.
+
+Versione # 09
+Utilizzo un pulsante per incollare dalla clipboard.
+Questo tutorial bellissimo insegna anche a incollare una immagine copiata in memoria nella clipboard.
+thanks to: https://youtu.be/9Jxv-3DenmM
+
+Versione # 10
+Inserisco i suoni nel programma
+Thanks to: https://youtu.be/qOh4ooHg1UU
+Questo tutorial insegna anche come utilizzare un checkBox come bottone col vantaggio
+di avere due stati (checked e uncheked) da utilizzare automaticamente.
+I files vanno copiati nella directory debug e devono essere .wav
+
+Versione # 11
+Mi sono accorto che salvava solo la lingua italiana.
+Bisogna infatti inserire anche nel metodo del pulsante che registra il file audio.wav
+la possibilità di avere la lingua corretta.
+
+Versione # 12
+Inserisco un'immagine nel pulsante "Incolla".
+Thanks to: https://youtu.be/n2oMEQkXNMo
+
+Versione # 13
+Faccio in modo che quando si salva un file audio si tenga conto anche della velocità di lettura 
+e del volume.
+
+Versione # 14 - not working!!!
+Cerco di utilizzare le voci naturali online della Microsoft.
+
+
+
+

@@ -1,0 +1,22 @@
+Versione # 04
+Cerco di inserire un pulsante per scegliere la lingua della sintesi vocale.
+
+
+Versione # 08
+Aggiungo una barra per la velocità di lettura seguendo un tutorial.
+
+Versione # 09
+Utilizzo un pulsante per incollare dalla clipboard.
+Questo tutorial bellissimo insegna anche a incollare una immagine copiata in memoria nella clipboard.
+thanks to: https://youtu.be/9Jxv-3DenmM
+
+Versione # 10
+Inserisco i suoni nel programma
+Thanks to: https://youtu.be/qOh4ooHg1UU
+Questo tutorial insegna anche come utilizzare un checkBox come bottone col vantaggio
+di avere due stati (checked e uncheked) da utilizzare automaticamente.
+I files vanno copiati nella directory debug e devono essere .wav
+
+
+
+

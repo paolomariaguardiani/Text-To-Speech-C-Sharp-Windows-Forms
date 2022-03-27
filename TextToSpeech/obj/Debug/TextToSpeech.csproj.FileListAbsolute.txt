@@ -1,0 +1,110 @@
+C:\Users\LENOVO M700\Desktop\C#Programs\Altri Tutorial su C#\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.exe.config
+C:\Users\LENOVO M700\Desktop\C#Programs\Altri Tutorial su C#\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\Altri Tutorial su C#\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\Altri Tutorial su C#\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.AssemblyReference.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\Altri Tutorial su C#\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\Altri Tutorial su C#\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.Form1.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\Altri Tutorial su C#\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.Properties.Resources.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\Altri Tutorial su C#\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.GenerateResource.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\Altri Tutorial su C#\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\Altri Tutorial su C#\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\Altri Tutorial su C#\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TextToSpeech_v03\TextToSpeech\bin\Debug\TextToSpeech.exe.config
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TextToSpeech_v03\TextToSpeech\bin\Debug\TextToSpeech.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TextToSpeech_v03\TextToSpeech\bin\Debug\TextToSpeech.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TextToSpeech_v03\TextToSpeech\obj\Debug\TextToSpeech.csproj.AssemblyReference.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TextToSpeech_v03\TextToSpeech\obj\Debug\TextToSpeech.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TextToSpeech_v03\TextToSpeech\obj\Debug\TextToSpeech.Form1.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TextToSpeech_v03\TextToSpeech\obj\Debug\TextToSpeech.Properties.Resources.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TextToSpeech_v03\TextToSpeech\obj\Debug\TextToSpeech.csproj.GenerateResource.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TextToSpeech_v03\TextToSpeech\obj\Debug\TextToSpeech.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TextToSpeech_v03\TextToSpeech\obj\Debug\TextToSpeech.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TextToSpeech_v03\TextToSpeech\obj\Debug\TextToSpeech.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v05\TextToSpeech\bin\Debug\TextToSpeech.exe.config
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v05\TextToSpeech\bin\Debug\TextToSpeech.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v05\TextToSpeech\bin\Debug\TextToSpeech.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v05\TextToSpeech\obj\Debug\TextToSpeech.csproj.AssemblyReference.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v05\TextToSpeech\obj\Debug\TextToSpeech.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v05\TextToSpeech\obj\Debug\TextToSpeech.Form1.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v05\TextToSpeech\obj\Debug\TextToSpeech.Properties.Resources.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v05\TextToSpeech\obj\Debug\TextToSpeech.csproj.GenerateResource.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v05\TextToSpeech\obj\Debug\TextToSpeech.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v05\TextToSpeech\obj\Debug\TextToSpeech.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v05\TextToSpeech\obj\Debug\TextToSpeech.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v06\TextToSpeech\bin\Debug\TextToSpeech.exe.config
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v06\TextToSpeech\bin\Debug\TextToSpeech.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v06\TextToSpeech\bin\Debug\TextToSpeech.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v06\TextToSpeech\obj\Debug\TextToSpeech.csproj.AssemblyReference.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v06\TextToSpeech\obj\Debug\TextToSpeech.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v06\TextToSpeech\obj\Debug\TextToSpeech.Form1.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v06\TextToSpeech\obj\Debug\TextToSpeech.Properties.Resources.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v06\TextToSpeech\obj\Debug\TextToSpeech.csproj.GenerateResource.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v06\TextToSpeech\obj\Debug\TextToSpeech.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v06\TextToSpeech\obj\Debug\TextToSpeech.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v06\TextToSpeech\obj\Debug\TextToSpeech.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v07\TextToSpeech\bin\Debug\TextToSpeech.exe.config
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v07\TextToSpeech\bin\Debug\TextToSpeech.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v07\TextToSpeech\bin\Debug\TextToSpeech.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v07\TextToSpeech\obj\Debug\TextToSpeech.csproj.AssemblyReference.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v07\TextToSpeech\obj\Debug\TextToSpeech.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v07\TextToSpeech\obj\Debug\TextToSpeech.Form1.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v07\TextToSpeech\obj\Debug\TextToSpeech.Properties.Resources.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v07\TextToSpeech\obj\Debug\TextToSpeech.csproj.GenerateResource.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v07\TextToSpeech\obj\Debug\TextToSpeech.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v07\TextToSpeech\obj\Debug\TextToSpeech.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v07\TextToSpeech\obj\Debug\TextToSpeech.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v08\TextToSpeech\obj\Debug\TextToSpeech.csproj.AssemblyReference.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v08\TextToSpeech\obj\Debug\TextToSpeech.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v08\TextToSpeech\obj\Debug\TextToSpeech.Form1.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v08\TextToSpeech\obj\Debug\TextToSpeech.Properties.Resources.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v08\TextToSpeech\obj\Debug\TextToSpeech.csproj.GenerateResource.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v08\TextToSpeech\obj\Debug\TextToSpeech.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v08\TextToSpeech\obj\Debug\TextToSpeech.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v08\TextToSpeech\obj\Debug\TextToSpeech.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v08\TextToSpeech\bin\Debug\TextToSpeech.exe.config
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v08\TextToSpeech\bin\Debug\TextToSpeech.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v08\TextToSpeech\bin\Debug\TextToSpeech.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v09\TextToSpeech\bin\Debug\TextToSpeech.exe.config
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v09\TextToSpeech\bin\Debug\TextToSpeech.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v09\TextToSpeech\bin\Debug\TextToSpeech.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v09\TextToSpeech\obj\Debug\TextToSpeech.csproj.AssemblyReference.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v09\TextToSpeech\obj\Debug\TextToSpeech.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v09\TextToSpeech\obj\Debug\TextToSpeech.Form1.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v09\TextToSpeech\obj\Debug\TextToSpeech.Properties.Resources.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v09\TextToSpeech\obj\Debug\TextToSpeech.csproj.GenerateResource.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v09\TextToSpeech\obj\Debug\TextToSpeech.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v09\TextToSpeech\obj\Debug\TextToSpeech.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v09\TextToSpeech\obj\Debug\TextToSpeech.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v10\TextToSpeech\bin\Debug\TextToSpeech.exe.config
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v10\TextToSpeech\bin\Debug\TextToSpeech.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v10\TextToSpeech\bin\Debug\TextToSpeech.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v10\TextToSpeech\obj\Debug\TextToSpeech.csproj.AssemblyReference.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v10\TextToSpeech\obj\Debug\TextToSpeech.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v10\TextToSpeech\obj\Debug\TextToSpeech.Form1.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v10\TextToSpeech\obj\Debug\TextToSpeech.Properties.Resources.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v10\TextToSpeech\obj\Debug\TextToSpeech.csproj.GenerateResource.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v10\TextToSpeech\obj\Debug\TextToSpeech.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v10\TextToSpeech\obj\Debug\TextToSpeech.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v10\TextToSpeech\obj\Debug\TextToSpeech.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v11\TextToSpeech\bin\Debug\TextToSpeech.exe.config
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v11\TextToSpeech\bin\Debug\TextToSpeech.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v11\TextToSpeech\bin\Debug\TextToSpeech.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v11\TextToSpeech\obj\Debug\TextToSpeech.csproj.AssemblyReference.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v11\TextToSpeech\obj\Debug\TextToSpeech.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v11\TextToSpeech\obj\Debug\TextToSpeech.Form1.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v11\TextToSpeech\obj\Debug\TextToSpeech.Properties.Resources.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v11\TextToSpeech\obj\Debug\TextToSpeech.csproj.GenerateResource.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v11\TextToSpeech\obj\Debug\TextToSpeech.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v11\TextToSpeech\obj\Debug\TextToSpeech.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v11\TextToSpeech\obj\Debug\TextToSpeech.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v12\TextToSpeech\bin\Debug\TextToSpeech.exe.config
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v12\TextToSpeech\bin\Debug\TextToSpeech.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v12\TextToSpeech\bin\Debug\TextToSpeech.pdb
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v12\TextToSpeech\obj\Debug\TextToSpeech.csproj.AssemblyReference.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v12\TextToSpeech\obj\Debug\TextToSpeech.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v12\TextToSpeech\obj\Debug\TextToSpeech.Form1.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v12\TextToSpeech\obj\Debug\TextToSpeech.Properties.Resources.resources
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v12\TextToSpeech\obj\Debug\TextToSpeech.csproj.GenerateResource.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v12\TextToSpeech\obj\Debug\TextToSpeech.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v12\TextToSpeech\obj\Debug\TextToSpeech.exe
+C:\Users\LENOVO M700\Desktop\C#Programs\PROGETTI PERSONALI IN C#\TEXT TO SPEECH\TextToSpeech_v12\TextToSpeech\obj\Debug\TextToSpeech.pdb
