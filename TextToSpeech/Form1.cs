@@ -48,13 +48,19 @@ namespace TextToSpeech
             // Il testo scritto deve essere tutto maiuscolo
             // thanks to: https://stackoverflow.com/questions/10104515/how-to-convert-string-to-uppercase-in-windows-textbox
             testoDaAscoltare.CharacterCasing = CharacterCasing.Upper;
-            
+
             // Aggiungo al menu a tendina le voci installate in Windows
             //// Thanks to: https://youtu.be/e8HiuJbK6ZI
             foreach (var voice in synth.GetInstalledVoices())
             {
                 comboBoxVoci.Items.Add(voice.VoiceInfo.Name);
             }
+            ///  Thanks to: https://youtu.be/4zdmSVgtfkU
+            //foreach (object obj in synth.GetInstalledVoices())
+            //{
+            //    var voice = (InstalledVoice)obj;
+            //    comboBoxVoci.Items.Add(voice.VoiceInfo.Description);
+            //}
             // Inserisco un valore di default nel combobox
             // altrimenti se faccio partire la lettura senza aver selezionato nulla mi dà un errore
             comboBoxVoci.SelectedIndex = 0;
